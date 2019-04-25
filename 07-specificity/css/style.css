@@ -1,0 +1,23 @@
+/* DO NOT WRITE ANY CSS BELOW LINE 10. DO NOT EDIT ANY CSS BELOW LINE 10.  */
+
+/* Create a selector that has a higher specificity value than the selector on line 19.   */
+h1::first-line{
+	color: white;
+}
+
+
+
+
+
+
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background: tomato; 
+}
+
+h1 {
+	color: #000;
+}
